@@ -6,7 +6,8 @@ It provides **insights across products, geographies, and salespersons** to help 
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard Preview]("C:\Users\SAI ADITHYA\OneDrive\Pictures\Screenshots\CHOCLATE SALES DASHBOARD.png")  
+ 
+![Dashboard Preview](CHOCLATE%20SALES%20DASHBOARD.png)  
 
 ---
 
@@ -55,6 +56,6 @@ This dashboard helps stakeholders to:
 ---
 
 ## 👨‍💻 Created By  
-[G.SAI ADITHYA]  
+[G.SAI ADITHYA] 
 
 📌 *Feel free to fork, star ⭐, and contribute to enhance this project.*  
